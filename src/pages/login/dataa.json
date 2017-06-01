@@ -1,0 +1,31 @@
+{
+    "code": "0",
+    "data": [
+        {
+            "createTime": "2017-03-08 16:27:27",
+            "del": 1,
+            "id": 14,
+            "user": 123123123,
+            "modifyTime": "2017-03-08 16:28:21",
+            "pass": 1234567,
+            "sort": 1,
+            "typecode": "cr_pro",
+            "typename": "作品著作权"
+        },
+        {
+            "createTime": "2017-03-08 16:27:27",
+            "del": 1,
+            "id": 14,
+            "user": 12356746,
+            "modifyTime": "2017-03-08 16:28:21",
+            "pass": 123234456,
+            "sort": 1,
+            "typecode": "cr_pro",
+            "typename": "作品著作权"
+        }
+
+
+    ],
+    "message": "成功！",
+    "success": true
+}
