@@ -1,7 +1,0 @@
-A.Register
-    1. this.$refs[formName].validate((valid) => {     //valid是什么意思
-    2.callback()            //什么意思
-    3.请求数据的时候是用getpost如果修改密码的时候前端应该怎么请求。
-B.Home模板的时候别忘加跟DIV
-    1.          console.log(3%0)    //NaN
-C.控制转变  vue
